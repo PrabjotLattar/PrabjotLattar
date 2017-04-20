@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerDbModel", "TrackerDbModel\TrackerDbModel.csproj", "{EEA442F2-3ED6-4879-B847-31B396ED2A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerDbConsole", "TrackerDbConsole\TrackerDbConsole.csproj", "{BE561C1D-898C-49A3-9483-F5FF762D26B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerService", "TrackerService\TrackerService.csproj", "{F9C82A2D-4E76-400E-AF89-87C3B4A1D68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA442F2-3ED6-4879-B847-31B396ED2A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA442F2-3ED6-4879-B847-31B396ED2A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA442F2-3ED6-4879-B847-31B396ED2A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA442F2-3ED6-4879-B847-31B396ED2A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE561C1D-898C-49A3-9483-F5FF762D26B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE561C1D-898C-49A3-9483-F5FF762D26B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE561C1D-898C-49A3-9483-F5FF762D26B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE561C1D-898C-49A3-9483-F5FF762D26B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C82A2D-4E76-400E-AF89-87C3B4A1D68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C82A2D-4E76-400E-AF89-87C3B4A1D68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C82A2D-4E76-400E-AF89-87C3B4A1D68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C82A2D-4E76-400E-AF89-87C3B4A1D68A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
